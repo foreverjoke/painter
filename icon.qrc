@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/new.ico</file>
+        <file>icons/open.ico</file>
+        <file>icons/save.ico</file>
+        <file>icons/save_as.ico</file>
+        <file>icons/pen.ico</file>
+        <file>icons/line.ico</file>
+        <file>icons/ellipse.ico</file>
+        <file>icons/exit.ico</file>
+        <file>icons/help.ico</file>
+        <file>icons/about.ico</file>
+        <file>icons/myicon.ico</file>
+        <file>icons/circle.ico</file>
+        <file>icons/rectangle.ico</file>
+        <file>icons/red.ico</file>
+        <file>icons/orange.ico</file>
+        <file>icons/yellow.ico</file>
+        <file>icons/green.ico</file>
+        <file>icons/cyan.ico</file>
+        <file>icons/blue.ico</file>
+        <file>icons/purple.ico</file>
+        <file>icons/black.ico</file>
+        <file>icons/brush.ico</file>
+        <file>icons/white.ico</file>
+        <file>icons/move.ico</file>
+        <file>icons/zoomIn.ico</file>
+        <file>icons/zoomOut.ico</file>
+        <file>icons/choose.ico</file>
+        <file>icons/remove.ico</file>
+        <file>icons/clockwise.ico</file>
+        <file>icons/counterclockwise.ico</file>
+        <file>icons/cutArea.ico</file>
+        <file>icons/cutLine.ico</file>
+        <file>icons/cutPolygon.ico</file>
+        <file>icons/open3Dmodel.ico</file>
+    </qresource>
+</RCC>
